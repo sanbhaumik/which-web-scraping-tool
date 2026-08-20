@@ -51,7 +51,7 @@ Plain HTML, CSS, and JavaScript. No frameworks, no build tools. Fonts are Fraunc
 
 ## About
 
-Built by [Sandi Bhaumik](https://linkedin.com/in/sandipanbhaumik), who writes about production AI and the gap between demos and real deployment. The tool maps your need to the relevant [Bright Data](https://brightdata.com) product.
+Built by [Sandipan Bhaumik](https://linkedin.com/in/sandipanbhaumik), who writes about production AI and the gap between demos and real deployment. The tool maps your need to the relevant [Bright Data](https://get.brightdata.com/2039fnr15xfy) product.
 
 *Contains affiliate links. Recommendations are based on what your problem actually needs, not on commission.*
 
